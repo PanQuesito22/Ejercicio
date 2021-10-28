@@ -1,0 +1,56 @@
+body{
+  background-color: #5d59a5;
+}
+.asulito{
+  background-color: #a4c5e9;
+
+}
+.linealila{
+  background-color: #5d59a5;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 0px;
+  margin-right: 0px;
+
+}
+.titulo{
+  color: rgba(93, 89, 165, 255.5);
+  text-align: center;
+  text-shadow: 3px -3px 2px white;
+  border-bottom: thick solid #5d59a5;
+  margin: 0;
+}
+.Biografia {
+  background-color: white;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+/* clearfix */
+.Biografia:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.primeracaja{
+  background-color: orange;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-style:dashed;color: white;
+}
+
+.segundacaja{
+  background-image: verde.png);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 200px;
+  margin-right: 150px;
+  border-style:dashed;color: white;
+}
+.imagen {
+ float: left;
+ border-style:solid;
+}
