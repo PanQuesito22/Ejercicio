@@ -34,7 +34,7 @@ body{
 }
 
 .primeracaja{
-  background-color: orange;
+  background-color: darkorange;
   padding-top: 10px;
   padding-bottom: 10px;
   margin-left: 200px;
@@ -43,14 +43,32 @@ body{
 }
 
 .segundacaja{
-  background-image: verde.png);
+  background-image: url(verde.png);
   padding-top: 10px;
   padding-bottom: 10px;
-  margin-left: 200px;
   margin-right: 150px;
-  border-style:dashed;color: white;
-}
+  margin-left: 250px;
+  text-align: center;
+  }
+
+  .terceracaja{
+    background-color: #b45421;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 100px;
+    margin-left: 300px;
+    text-align: center;
+    border:thick solid white;
+    border-top: none;
+    border-bottom: none;
+
+
+    }
 .imagen {
  float: left;
  border-style:solid;
+}
+.algo{
+
 }
